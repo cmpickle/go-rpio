@@ -15,7 +15,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/stianeikeland/go-rpio"
+	"github.com/cmpickle/go-rpio"
 )
 
 var (
